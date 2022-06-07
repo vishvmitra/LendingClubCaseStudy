@@ -23,11 +23,12 @@ The data given below contains information about past loan applicants and whether
 
 ## Steps
 1. Data Understanding
-2. Data Preparation
-3. Univariate Analysis
-4. Segmented Univariate Analysis
-5. BiVariate Analysis
-6. Results
+2. Data Cleaning and Preparation
+3. Data Visualization
+4. Univariate Analysis
+5. Segmented Univariate Analysis
+6. BiVariate Analysis
+7. Results
 
 ## Conclusions
 - Conclusion 1 from the analysis
